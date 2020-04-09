@@ -1,0 +1,43 @@
+.col
+{
+	background-color: gray;
+border: 3px solid black;
+}
+
+body
+
+{
+	background:url(data.jpg) no-repeat center fixed;
+	
+
+
+	background-size:cover;
+}
+
+html
+{
+	background-image:url(data.jpg) no-repeat center fixed;
+	
+
+	background-size:cover;
+
+	
+
+}
+hr
+{
+	max-width: 65px;
+border-color: green;
+
+
+}
+.btn:hover
+{
+
+border-radius: 300px;
+background-color: red;
+
+
+
+
+}
